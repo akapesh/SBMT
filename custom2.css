@@ -1,0 +1,36 @@
+body
+{
+	background-color: #dede;
+}
+
+.btn-success{
+    background-color: #5e994b;
+    border: 1px solid #3b6e22;
+    border-radius: 5px;
+    height: 3rem;
+    width: 200px;
+    color: #ffffff;
+    margin-right: 1.5rem;
+    margin-left: 1rem;
+    margin-top: 3rem;
+
+}
+
+.btn-danger{
+    background-color: crimson;
+    border: 1px solid red;
+    border-radius: 5px;
+    height: 3rem;
+    width: 200px;
+    color: #ffffff;
+}
+
+.btn-info{
+    background-color: #008080;
+    border: 1px solid navy blue;
+    border-radius: 5px;
+    height: 4rem;
+    width: 430px;
+    color: #ffffff;
+    margin-left: 1rem;
+}
